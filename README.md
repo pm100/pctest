@@ -1,2 +1,2 @@
 # pctest
-gitui precommit test
+gitui precommit testaaaa
